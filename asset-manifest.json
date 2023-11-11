@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/printify-react/static/css/main.264b43ab.css",
+    "main.js": "/printify-react/static/js/main.712ada23.js",
+    "static/js/787.b8aa329c.chunk.js": "/printify-react/static/js/787.b8aa329c.chunk.js",
+    "static/media/productImages.jpg": "/printify-react/static/media/productImages.6ceb20a898870913fc91.jpg",
+    "static/media/welcomeImage.png": "/printify-react/static/media/welcomeImage.58769ab03af6ca7ae3c4.png",
+    "static/media/teamLeader1.png": "/printify-react/static/media/teamLeader1.e3ba4415bb7699de9609.png",
+    "static/media/teamLeader2.png": "/printify-react/static/media/teamLeader2.43c04647195138ebdf22.png",
+    "static/media/teamLeader3.png": "/printify-react/static/media/teamLeader3.7abfb851b21a952d58ab.png",
+    "static/media/whatWeDoImage.jpg": "/printify-react/static/media/whatWeDoImage.ddc3e9d2f1125d8875b2.jpg",
+    "static/media/offsetPrint.jpg": "/printify-react/static/media/offsetPrint.079c483626b6a71e3079.jpg",
+    "static/media/AboutCompanyImage.jpg": "/printify-react/static/media/AboutCompanyImage.4e4b5b8e6b8da1003b92.jpg",
+    "static/media/howWework.jpg": "/printify-react/static/media/howWework.171aa7c14a33852434f9.jpg",
+    "static/media/3d printing.jpg": "/printify-react/static/media/3d printing.5e1145517ff205731251.jpg",
+    "static/media/premiseImage.jpg": "/printify-react/static/media/premiseImage.4032e2612ee53610b6da.jpg",
+    "static/media/testimonialTwo.jpg": "/printify-react/static/media/testimonialTwo.653d9dacef39b4800b0e.jpg",
+    "static/media/testimonialOne.jpg": "/printify-react/static/media/testimonialOne.b5e1f057ed818da2c8c5.jpg",
+    "static/media/printifyLogo.png": "/printify-react/static/media/printifyLogo.98b3266f83dc01af9eb9.png",
+    "static/media/digitalPrint.jpeg": "/printify-react/static/media/digitalPrint.f3c2aa77a57453181ac0.jpeg",
+    "static/media/printerTwo.webp": "/printify-react/static/media/printerTwo.d781678217ef21007386.webp",
+    "static/media/printerThree.webp": "/printify-react/static/media/printerThree.30a4c563096ed575ebde.webp",
+    "index.html": "/printify-react/index.html",
+    "main.264b43ab.css.map": "/printify-react/static/css/main.264b43ab.css.map",
+    "main.712ada23.js.map": "/printify-react/static/js/main.712ada23.js.map",
+    "787.b8aa329c.chunk.js.map": "/printify-react/static/js/787.b8aa329c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.264b43ab.css",
+    "static/js/main.712ada23.js"
+  ]
+}
